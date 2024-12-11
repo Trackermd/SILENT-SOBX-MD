@@ -6,8 +6,8 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "6RBWRbgI#uye-TUtfCS6b-yZnrY9AJU8F4tg9DIDmsqQVpw516_Q",
-    CAPTION: process.env.CAPTION || "POWERED BY SILENTLOVER432",
+    SESSION_ID: process.env.SESSION_ID || "jQACjDjR#WmmMlIpvkJeCiyFvq_LbUsWtMN5QUaxZQj7hp0EjMxI",
+    CAPTION: process.env.CAPTION || "POWERED BY TRACKER WANGA",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
     READ_MESSAGE: process.env.READ_MESSAGE || "true", // Added auto-read configuration
     MODE: process.env.MODE || "public",
